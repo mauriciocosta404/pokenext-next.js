@@ -1,0 +1,28 @@
+.title{
+    text-align: center;
+}
+
+.container{
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.content{
+    max-width:40rem;
+
+}
+.content p{
+    font-size: 1.2rem;
+    font-weight: 50;
+    line-height: 1.5rem;
+}
+.content button{
+    margin-top: 2rem;
+    padding:1rem 3rem;
+    border: none;
+    background:#333;
+    color:#ddd; 
+    font-size: 1.2rem;   
+}
