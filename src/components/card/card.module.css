@@ -1,0 +1,27 @@
+.boxContainer{
+    display: grid;
+    grid-template-columns: repeat(autofit,minmax(28rem,1fr));
+    gap: 2rem;
+    background-color: red;
+}
+.box{
+    padding:2.5rem;
+    background:#fff;
+    border-radius: .1rem solid rgba(0,0,0,0.2) ;
+    box-shadow: 0 .5rem 1.5rem rgba(0,0,0,0.1);
+    overflow: hidden;
+    text-align: center;
+    max-width: 20rem;
+}
+.btn{
+    margin-top: 1rem;
+    display:inline-block;
+    font-size:1.3rem;
+    color:#fff;
+    background-color: #333;
+    border-radius: .3rem;
+    cursor:pointer;
+    padding:.5rem 2rem;
+    text-decoration: none;
+}
+
