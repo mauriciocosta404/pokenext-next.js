@@ -5,23 +5,24 @@
     background-color: red;
 }
 .box{
-    padding:2.5rem;
+    padding:3.5rem 7rem;
     background:#fff;
     border-radius: .1rem solid rgba(0,0,0,0.2) ;
     box-shadow: 0 .5rem 1.5rem rgba(0,0,0,0.1);
     overflow: hidden;
     text-align: center;
-    max-width: 20rem;
+    max-width: 25rem;
+    height: 23rem;
 }
 .btn{
-    margin-top: 1rem;
+    margin-top: 2rem;
     display:inline-block;
     font-size:1.3rem;
     color:#fff;
     background-color: #333;
     border-radius: .3rem;
     cursor:pointer;
-    padding:.5rem 2rem;
+    padding:.5rem 3rem;
     text-decoration: none;
 }
 

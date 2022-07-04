@@ -6,6 +6,8 @@
     margin-bottom: 2rem;
     background:#333;
     color:#fff;
+    position: fixed;
+    left:0;right:0;top:0;
 }
 .logo{
     display: flex;

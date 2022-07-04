@@ -16,11 +16,11 @@ export default function Home({pokemons}) {
 
                 <div class={styles.slide}>
                     <div className={styles.content}>
-                        <span>our special dishes</span>
-                        <h3>spicy noodles</h3>
+                        <span>our special pokemons</span>
+                        <h3>Best Pokemons</h3>
                         <p>Lorem ipsum dolor sit. Officia a nostrum aut excepturi quae dignissimos voluptas, quidem distinctio, magni veritatis voluptatem quos 
                             recusandae aperiam iure explicabo tempora ipsam eos temporibus.</p>
-                            <a href="#" className={styles.btn}>order now</a>
+                            <a href="#" className={styles.btn}>choose now</a>
                     </div>
                     <div class="image">
                         <img src="images/charizard.png" alt="" width="400"/>
